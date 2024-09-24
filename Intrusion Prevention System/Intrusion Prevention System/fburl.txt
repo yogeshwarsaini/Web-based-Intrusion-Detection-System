@@ -1,1 +1,0 @@
-<paste your firebase realtime database url here>
